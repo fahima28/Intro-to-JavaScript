@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  color: red;
+}
+body{
+  background-color: lightyellow;
+}
+button {
+  color: hotpink;
+  font-family: Impact;
+  background-color: lightblue;
+}
